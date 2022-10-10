@@ -47,4 +47,4 @@ It's a telegram bot that **listens to your voice recordings** and transcribes th
 
 I've started developing it for personal use, but I've then realized this could be useful to anyone who wants to easily make entries to a spreadsheet or take notes using their voice and decided to make it public.
 
-To access the code visit [**Tytta 🦉**](https://github.com/pedroblayaluz/pedroblayaluz).
+To access the code visit [**Tytta 🦉**](https://github.com/pedroblayaluz/pedroblayaluz)
