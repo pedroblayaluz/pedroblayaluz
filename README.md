@@ -43,12 +43,10 @@ You can reach out to me at: ⤵️
 #
 ### Recent project
 
-<img src="https://user-images.githubusercontent.com/68649697/195158131-5019d817-aa61-45c5-875f-ed9d5b46fc22.png" width="150px" align="right">
+<img src="https://user-images.githubusercontent.com/68649697/195161899-9efafdaa-d630-4afc-aa25-80fa3b6b538d.png" width="200px" align="right">
 
 I've been recently developing Tytta: a telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**.
 
 I've started developing it for personal use, but I've then realized it could be useful to anyone who wants to easily make entries to a spreadsheet or take notes using their voice and decided to make it public.
 
 To access the code visit [**Tytta 🦉**](https://github.com/pedroblayaluz/tyttabot)
-
-
