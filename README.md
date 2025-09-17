@@ -40,13 +40,19 @@ You can reach out to me at: ⤵️
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white/"/></a>
 </p>
 
-#
-### Recent project
+# Open-source projects
 
-<img src="https://user-images.githubusercontent.com/68649697/195161899-9efafdaa-d630-4afc-aa25-80fa3b6b538d.png" width="200px" align="right">
 
-I've been recently developing Tytta: a telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**.
 
-I've started developing it for personal use, but I've then realized it could be useful to anyone who wants to easily make entries to a spreadsheet or take notes using their voice and decided to make it public.
+### [mediaichemy 🧪](https://github.com/pedroblayaluz/mediaichemy)
+<sub><i>Ongoing development</i></sub>
+<img src="https://raw.githubusercontent.com/pedroblayaluz/mediaichemy/refs/heads/main/logo.png" width="100px" align="right">
 
-To access the code visit [**Tytta 🦉**](https://github.com/pedroblayaluz/tyttabot)
+A Python library for generating cost effective multimedia content using AI. It intelligently selects models and workflows to minimize costs while delivering high-quality results.
+
+### [Tytta 🦉](https://github.com/pedroblayaluz/tyttabot)
+<sub><i>Developed in october 2022</i></sub>
+<img src="https://user-images.githubusercontent.com/68649697/195161899-9efafdaa-d630-4afc-aa25-80fa3b6b538d.png" width="100px" align="right">
+
+A telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**. 
+
