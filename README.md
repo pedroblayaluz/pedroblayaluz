@@ -5,7 +5,36 @@ I started my career in data while working as a biologist. During my Master's in 
 My first tech role was in a real estate tech company, building ETLs, predictive models, and dashboards. Afterwards, in a subscription-based book company, I took on a hybrid role as tech lead and data product manager — while still coding. Today, in the financial sector, I work as an AI/ML solutions architect applying NLP techniques and building machine learning models to power a financial products recommendation system — as well as deploying AI agents in the strict and secure environment of banking.
 
 My passion for staying current with state-of-the-art techniques means my clients get solutions built with the latest and most effective approaches. Let's connect — I'm always interested in understanding business challenges and building solutions that create real impact.
-#
+
+
+
+# Open-source projects
+
+
+
+### [wisemutts 🐕](https://github.com/pedroblayaluz/wisemutts)
+<sub><i>january 2026</i></sub>
+
+Automated Instagram content creation with AI-generated pixel art videos and philosophical narration. Built with **mediaichemy** for video generation and **instapost** for Instagram posting. Daily automation powered by AWS Lambda – zero manual intervention.
+
+### [instapost 📸](https://github.com/pedroblayaluz/instapost)
+<sub><i>january 2026</i></sub>
+
+A simple and powerful Python library for posting to Instagram using the Instagram Graph API. Post images, reels, and carousels with just a few lines of code.
+
+### [mediaichemy 🧪](https://github.com/pedroblayaluz/mediaichemy)
+<sub><i>december 2025</i></sub>
+<img src="https://raw.githubusercontent.com/pedroblayaluz/mediaichemy/refs/heads/main/logo.png" width="100px" align="right">
+
+A Python library for generating cost effective multimedia content using AI. It intelligently selects models and workflows to minimize costs while delivering high-quality results.
+
+### [Tytta 🦉](https://github.com/pedroblayaluz/tyttabot)
+<sub><i>october 2022</i></sub>
+<img src="https://user-images.githubusercontent.com/68649697/195161899-9efafdaa-d630-4afc-aa25-80fa3b6b538d.png" width="100px" align="right">
+
+A telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**.
+
+
 ### Tools
 🛠️ Some of the **tools** I've worked with:
 
@@ -47,30 +76,4 @@ You can reach out to me at: ⤵️
 <a href="https://www.instagram.com/pedroluz._">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white/"/></a>
 </p>
-
-# Open-source projects
-
-
-
-### [wisemutts 🐕](https://github.com/pedroblayaluz/wisemutts)
-<sub><i>january 2026</i></sub>
-
-Automated Instagram content creation with AI-generated pixel art videos and philosophical narration. Built with **mediaichemy** for video generation and **instapost** for Instagram posting. Daily automation powered by AWS Lambda – zero manual intervention.
-
-### [instapost 📸](https://github.com/pedroblayaluz/instapost)
-<sub><i>january 2026</i></sub>
-
-A simple and powerful Python library for posting to Instagram using the Instagram Graph API. Post images, reels, and carousels with just a few lines of code.
-
-### [mediaichemy 🧪](https://github.com/pedroblayaluz/mediaichemy)
-<sub><i>december 2025</i></sub>
-<img src="https://raw.githubusercontent.com/pedroblayaluz/mediaichemy/refs/heads/main/logo.png" width="100px" align="right">
-
-A Python library for generating cost effective multimedia content using AI. It intelligently selects models and workflows to minimize costs while delivering high-quality results.
-
-### [Tytta 🦉](https://github.com/pedroblayaluz/tyttabot)
-<sub><i>october 2022</i></sub>
-<img src="https://user-images.githubusercontent.com/68649697/195161899-9efafdaa-d630-4afc-aa25-80fa3b6b538d.png" width="100px" align="right">
-
-A telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**.
 
