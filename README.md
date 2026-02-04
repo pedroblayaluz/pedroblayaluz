@@ -14,11 +14,13 @@ My passion for staying current with state-of-the-art techniques means my clients
 
 ### [wisemutts 🐕](https://github.com/pedroblayaluz/wisemutts)
 <sub><i>january 2026</i></sub>
+<img src="https://raw.githubusercontent.com/pedroblayaluz/wisemutts/refs/heads/main/logo.png" width="100px" align="right">
 
 Automated Instagram content creation with AI-generated pixel art videos and philosophical narration. Built with **mediaichemy** for video generation and **instapost** for Instagram posting. Daily automation powered by AWS Lambda – zero manual intervention.
 
 ### [instapost 📸](https://github.com/pedroblayaluz/instapost)
 <sub><i>january 2026</i></sub>
+<img src="https://raw.githubusercontent.com/pedroblayaluz/instapost/refs/heads/main/logo.png" width="100px" align="right">
 
 A simple and powerful Python library for posting to Instagram using the Instagram Graph API. Post images, reels, and carousels with just a few lines of code.
 
