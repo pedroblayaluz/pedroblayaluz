@@ -1,6 +1,3 @@
-
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/ascending-charts-and-dollar-coins-5581199-4642974.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ### About me
 
 I started my career in data while working as a biologist. During my Master's in Ecology, I discovered my passion for statistics and programming — analyzing sea turtle data. In 2020, I decided to dive fully into technology, and since then I've built a strong track record in data, AI, and software, leading end-to-end projects across companies in different industries.
