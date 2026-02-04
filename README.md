@@ -1,4 +1,4 @@
-### About me
+## About me
 
 I started my career in data while working as a biologist. During my Master's in Ecology, I discovered my passion for statistics and programming — analyzing sea turtle data. In 2020, I decided to dive fully into technology, and since then I've built a strong track record in data, AI, and software, leading end-to-end projects across companies in different industries.
 
@@ -8,7 +8,7 @@ My passion for staying current with state-of-the-art techniques means my clients
 
 
 
-# Open-source projects
+## Open-source projects
 
 
 
@@ -35,7 +35,7 @@ A Python library for generating cost effective multimedia content using AI. It i
 A telegram bot that **listens to your voice recordings** and transcribes them into **spreadsheets or text documents**.
 
 
-### Tools
+## Tools
 🛠️ Some of the **tools** I've worked with:
 
 #### Languages:
